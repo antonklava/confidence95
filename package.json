@@ -1,0 +1,26 @@
+{
+  "name": "confidence95",
+  "version": "1.0.0",
+  "description": "Given a list of numbers returns the 95% confidence interval.",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonklava/confidence95.git"
+  },
+  "keywords": [
+    "math",
+    "statistics",
+    "confidence",
+    "interval"
+  ],
+  "author": "Anton Klava <anton@klava.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonklava/confidence95/issues"
+  },
+  "homepage": "https://github.com/antonklava/confidence95#readme"
+}
